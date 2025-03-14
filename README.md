@@ -1,4 +1,4 @@
-# 🔥 加密货币私钥碰撞工具 - 专业版 🔥
+# 🔥 CryptoKeyHunter-Pro 加密货币私钥碰撞工具 🔥
 
 ![主界面](screenshots/home.png)
 
