@@ -74,7 +74,7 @@
 ## 🔄 安装与使用
 
 1. 下载并解压程序
-2. 运行 `crypto_collision_tool.exe`
+2. 运行 `CryptoKeyHunter-Pro.exe`
 3. 选择币种和线程数
 4. 加载地址文件
 5. 点击"开始扫描"
