@@ -1,9 +1,8 @@
 # 🔥 CryptoKeyHunter-Pro 加密货币私钥碰撞工具 🔥
-# 🔥 CryptoKeyHunter-Pro Cryptocurrency Private Key Collision Tool 🔥
-
-![主界面](screenshots/home.png)
 
 [中文](#zh-cn) | [English](#en)
+
+![主界面](screenshots/home.png)
 
 <a name="zh-cn"></a>
 ## 💥 什么是私钥碰撞？
